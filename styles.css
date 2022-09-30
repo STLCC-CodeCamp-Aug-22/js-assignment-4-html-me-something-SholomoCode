@@ -1,1 +1,42 @@
-/* Write your CSS here! */
+body {
+    margin: 8px;
+    display: block;
+    background-color: black;
+    font-size: larger;
+}
+header,main, article,footer {
+    background-color: antiquewhite;
+}
+header {
+    padding: 2px;
+}
+article {
+    padding-left: 3%;
+}
+#mainHeading {
+    color: red;
+    text-align: center;
+}
+h2 {
+    text-align: center;
+    padding: 3%;
+    font-size: 40px;
+}
+#bloodbending {
+    color: red;
+}
+p.funParagraph {
+    font-size: 120%;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 2%;
+    color: green;
+}
+
+figure {
+    text-align: center;
+}
+
+
+#footerP {
+    text-align: center;
+}
