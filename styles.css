@@ -1,5 +1,5 @@
 body {
-    margin: 20px;
+    margin: 8px;
     display: block;
     background-color: black;
     font-size: larger;
@@ -14,7 +14,7 @@ article {
     padding-left: 3%;
 }
 #mainHeading {
-    color: blue;
+    color: red;
     text-align: center;
 }
 h2 {
@@ -29,6 +29,7 @@ p.funParagraph {
     font-size: 120%;
     font-family: 'Times New Roman', Times, serif;
     margin: 2%;
+    color: green;
 }
 
 figure {
